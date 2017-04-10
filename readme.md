@@ -1,3 +1,3 @@
-latgit
+latgit2
 
 isikan deskripsi
