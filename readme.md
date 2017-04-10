@@ -1,3 +1,6 @@
-latgit2
+latgit1
 
-isikan deskripsi
+ke satu
+ke dua
+ke tiga
+ke empat
